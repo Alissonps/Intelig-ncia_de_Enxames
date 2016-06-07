@@ -4,6 +4,7 @@ from Conjunto_ambientes import Ambiente, Conjunto_ambientes
 import copy
 import numpy as np
 import scipy.spatial.distance as sp
+#TesteBranch
 
 contador = 0
 contador2 = 0
